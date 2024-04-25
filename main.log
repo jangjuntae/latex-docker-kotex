@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.22)  25 APR 2024 05:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.22)  25 APR 2024 05:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -25,48 +25,6 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 
 ! LaTeX Error: File `kotex.sty' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
-
-Enter file name: sry
-
-! LaTeX Error: File `sry.sty' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
-
-Enter file name: return
-
-! LaTeX Error: File `return.sty' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
-
-Enter file name: RETURN
-
-! LaTeX Error: File `RETURN.sty' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
-
-Enter file name: q
-
-! LaTeX Error: File `q.sty' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
-
-Enter file name: q
-
-! LaTeX Error: File `q.sty' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
-
-Enter file name: fff
-
-! LaTeX Error: File `fff.sty' not found.
 
 Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
@@ -7150,12 +7108,12 @@ l.81 ...æ´ç™·^^@ø~ey5^^CöRïÇð÷¬IÔÕ\¶Cº+¨•z^^VÔ¶^^A
                                                   ‹Œ^^_Ÿ"eåU^^R©†1Ý^^R^^^õ6n...
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 228 strings out of 494921
- 2389 string characters out of 6180370
- 56980 words of memory out of 5000000
+ 223 strings out of 494921
+ 2370 string characters out of 6180370
+ 56942 words of memory out of 5000000
  3621 multiletter control sequences out of 15000+600000
  6376 words of font info for 23 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 32i,6n,28p,706b,63s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,6n,19p,706b,63s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
