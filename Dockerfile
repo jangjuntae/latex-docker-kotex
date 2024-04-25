@@ -1,4 +1,5 @@
-FROM blang/latex:ctanbasic
+FROM ubuntu:xenial
 
-RUN tlmgr init-usertree || true
-RUN tlmgr install ko.TEX-utf || true
+RUN apt-get update -y
+RUN apt-get install -y texlive-base
+RUN apt-get install -y ko.tex
