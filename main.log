@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.22)  25 APR 2024 04:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.22)  25 APR 2024 04:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -40,21 +40,35 @@ Type  H <return>  for immediate help.
                                                   
 l.3 3
       0 obj
-? 
+? main.pdf
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? d
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? q
+OK, entering \batchmode...
 Missing character: There is no ⁄ in font cmr12!
 Missing character: There is no ≈ in font cmr12!
 Missing character: There is no ¡ in font cmr12!
 ! Text line contains an invalid character.
 l.9 x⁄≈V¡n^^S
              1^^PΩ˜+ñ€Fb^^GœxÏ±À^^AÅ(B¿ç^^H!(áJI^^EjK§6i/|<≥±w„%N\zIºªoﬂÃ{3...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
 
-? 
 ! Text line contains an invalid character.
 l.9 x⁄≈V¡n^^S1^^P
                  Ω˜+ñ€Fb^^GœxÏ±À^^AÅ(B¿ç^^H!(áJI^^EjK§6i/|<≥±w„%N\zIºªoﬂÃ{3...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
 
-? q
-OK, entering \batchmode...
 Missing character: There is no Ω in font cmr12!
 Missing character: There is no ˜ in font cmr12!
 Missing character: There is no ñ in font cmr12!
